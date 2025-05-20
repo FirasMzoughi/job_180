@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444376303939",
+    "project_id": "jobapp-68dae",
+    "storage_bucket": "jobapp-68dae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444376303939:android:019fb2eb5e5fcdd915c7f6",
+        "android_client_info": {
+          "package_name": "com.example.job360"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-dJ035f3olDQ-413FwDX1Y4jChJvzaHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+C:/Users/firas/OneDrive/Desktop/job360-master/android/app/.cxx/Debug/143k6j1k/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/firas/OneDrive/Desktop/job360-master/android/app/.cxx/Debug/143k6j1k/armeabi-v7a/CMakeFiles/rebuild_cache.dir
